@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-  <h3 align="center">StyleSpace</h3>
+  ### <h3 align="center"> StyleSpace</h3>
 
   <p align="center">
     Revolutionizing Fashion Trend Generation for Myntra!
